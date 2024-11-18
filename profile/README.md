@@ -1,0 +1,1 @@
+![Technical University of Applied Sciences Augsburg Embedded Systems Lab](../Images/THA_ESL.svg)
